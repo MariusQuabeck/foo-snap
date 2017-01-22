@@ -1,5 +1,6 @@
 # foo-snap
-42.
+# 42.
+# The most useful snap in the world
 ![alt text](https://raw.githubusercontent.com/MariusQuabeck/foo-snap/master/foo.png "foo logo")
 
 
