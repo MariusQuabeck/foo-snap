@@ -4,6 +4,7 @@
 
 
 Started as a funny idea and ended with me not having permission to upload a snap with the name **foo** to the store.
+
 Anyway you can install it locally:
 
 Usage
