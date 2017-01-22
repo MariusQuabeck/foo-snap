@@ -14,8 +14,8 @@ parts:
   foo:
     source: https://github.com/MariusQuabeck/foo-snap.git
     plugin: dump
-    stage-packages: [gem, lolcat]
-
+    stage-packages:
+      - lolcat
 
 
   
