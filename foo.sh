@@ -9,7 +9,6 @@ sleep 1
 printf " go check out\n"
 echo ""
 sleep 1
-apt list
 cat << "EOF" | lolcat -a -d 1
    _____                                   __ _     _       
   / ____|                                 / _| |   (_)      
