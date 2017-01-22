@@ -1,7 +1,7 @@
 # foo-snap
-# 42.
-# The most useful snap in the world
+42.
 ![alt text](https://raw.githubusercontent.com/MariusQuabeck/foo-snap/master/foo.png "foo logo")
+The most useful snap in the world
 
 
 Started as a funny idea and ended with me not having permission to upload a snap with the name **foo** to the store.
