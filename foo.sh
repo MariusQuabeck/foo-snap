@@ -9,7 +9,7 @@ sleep 1
 printf " go check out\n"
 echo ""
 sleep 1
-cat << "EOF" | lolcat -a -d 1
+cat << "EOF" #| lolcat -a -d 1 removed until I'll find out why lolcat isn't working
    _____                                   __ _     _       
   / ____|                                 / _| |   (_)      
  | (___  _ __   __ _ _ __   ___ _ __ __ _| |_| |_   _  ___  
