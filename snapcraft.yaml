@@ -1,6 +1,6 @@
 name: foo
 version: "0.1"
-summary: 42
+summary: The most useful snap in the world
 description: |
   What did you expect?
 grade: stable
