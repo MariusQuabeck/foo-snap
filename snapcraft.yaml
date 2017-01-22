@@ -1,0 +1,21 @@
+name: foo
+version: "0.1"
+summary: 42.
+description: |
+  What did you expect?
+grade: stable
+confinement: strict
+
+apps:
+  foo:
+    command: foo.sh 
+    plugs: 
+parts:
+  foo:
+    source: https://github.com/MariusQuabeck/foo-snap.git
+    plugin: dump
+    stage-packages:
+      - lolcat
+
+
+  
