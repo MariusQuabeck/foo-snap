@@ -9,7 +9,7 @@ confinement: strict
 apps:
   foo:
     command: foo.sh 
-    plugs: 
+    plugs: [network]
 parts:
   foo:
     source: https://github.com/MariusQuabeck/foo-snap.git
