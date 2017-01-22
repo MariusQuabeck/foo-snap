@@ -25,3 +25,10 @@ Run the snap
 ```
 foo
 ```
+TODO
+------
+- Fix lolcat
+
+Special thanks to
+------
+- [Alan Pope](https://github.com/popey)
