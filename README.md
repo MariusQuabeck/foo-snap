@@ -35,3 +35,5 @@ TODO
 Special thanks to
 ------
 - [Alan Pope](https://github.com/popey)
+- [michaelkisiel](https://github.com/michaelkisiel)
+- [EmojiOne](http://emojione.com/)
