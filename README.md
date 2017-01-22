@@ -23,7 +23,7 @@ cd foo-snap
 Install the snap (64-bit)
 ```
 sudo snap install foo_0.1_amd64.snap --dangerous
-
+```
 Install the snap (32-bit)
 ```
 sudo snap install foo_0.1_i386.snap --dangerous
